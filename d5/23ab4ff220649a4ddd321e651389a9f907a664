@@ -1,0 +1,23 @@
+packages/browser-vm/__tests__/modules/timer.spec.ts
+  s_227ec03c6e22da::t_1aa3349f2f2296 1-94
+packages/browser-vm/src/modules/timer.ts
+  s_227ec03c6e22da::t_7ff7056f30a60d 11-12,14-23,36,57,73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d523ab4ff220649a4ddd321e651389a9f907a664",
+  "prompts": {},
+  "sessions": {
+    "s_227ec03c6e22da": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8419-6bf7-7593-8317-d2bbac15c865",
+        "model": "unknown"
+      },
+      "human_author": "2heal1 <TwoHeal@163.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
